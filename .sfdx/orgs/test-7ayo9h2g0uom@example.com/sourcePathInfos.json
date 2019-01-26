@@ -1,0 +1,152 @@
+[
+    [
+        "/home/gidiem/Documents/VS Code Workspace/HelloWorldLightningWebComponent/force-app",
+        {
+            "state": "u",
+            "sourcePath": "/home/gidiem/Documents/VS Code Workspace/HelloWorldLightningWebComponent/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1548497842863,
+            "changeTime": 1548497842863,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/home/gidiem/Documents/VS Code Workspace/HelloWorldLightningWebComponent/force-app/main",
+        {
+            "state": "u",
+            "sourcePath": "/home/gidiem/Documents/VS Code Workspace/HelloWorldLightningWebComponent/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1548497842863,
+            "changeTime": 1548497842863,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/gidiem/Documents/VS Code Workspace/HelloWorldLightningWebComponent/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/home/gidiem/Documents/VS Code Workspace/HelloWorldLightningWebComponent/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1548497842863,
+            "changeTime": 1548497842863,
+            "contentHash": "7334b1e8716ee057f8863fce77d3933d5bd9d984",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/gidiem/Documents/VS Code Workspace/HelloWorldLightningWebComponent/force-app/main/default/aura",
+        {
+            "state": "u",
+            "sourcePath": "/home/gidiem/Documents/VS Code Workspace/HelloWorldLightningWebComponent/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1548497842863,
+            "changeTime": 1548497842863,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/gidiem/Documents/VS Code Workspace/HelloWorldLightningWebComponent/force-app/main/default/lwc",
+        {
+            "state": "u",
+            "sourcePath": "/home/gidiem/Documents/VS Code Workspace/HelloWorldLightningWebComponent/force-app/main/default/lwc",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1548498974219,
+            "changeTime": 1548498974219,
+            "contentHash": "faff82b8edb19af39d7a6c08271b6498fd431a07",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/gidiem/Documents/VS Code Workspace/HelloWorldLightningWebComponent/force-app/main/default/lwc/helloWorld",
+        {
+            "state": "u",
+            "sourcePath": "/home/gidiem/Documents/VS Code Workspace/HelloWorldLightningWebComponent/force-app/main/default/lwc/helloWorld",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1548498974223,
+            "changeTime": 1548498974223,
+            "contentHash": "c4f5c53c9e3fa98e7b41f54b72a11b17045711fb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/gidiem/Documents/VS Code Workspace/HelloWorldLightningWebComponent/force-app/main/default/lwc/helloWorld/helloWorld.html",
+        {
+            "state": "u",
+            "sourcePath": "/home/gidiem/Documents/VS Code Workspace/HelloWorldLightningWebComponent/force-app/main/default/lwc/helloWorld/helloWorld.html",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 311,
+            "modifiedTime": 1548498997658,
+            "changeTime": 1548498997658,
+            "contentHash": "7370b68224894ea36930868027b9816896bb817c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/gidiem/Documents/VS Code Workspace/HelloWorldLightningWebComponent/force-app/main/default/lwc/helloWorld/helloWorld.js",
+        {
+            "state": "u",
+            "sourcePath": "/home/gidiem/Documents/VS Code Workspace/HelloWorldLightningWebComponent/force-app/main/default/lwc/helloWorld/helloWorld.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 215,
+            "modifiedTime": 1548499024124,
+            "changeTime": 1548499024124,
+            "contentHash": "3434a5c8686cb4c9fe4cb6b043a5b12a36c6b9d1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/gidiem/Documents/VS Code Workspace/HelloWorldLightningWebComponent/force-app/main/default/lwc/helloWorld/helloWorld.js-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/gidiem/Documents/VS Code Workspace/HelloWorldLightningWebComponent/force-app/main/default/lwc/helloWorld/helloWorld.js-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 369,
+            "modifiedTime": 1548499049983,
+            "changeTime": 1548499049983,
+            "contentHash": "5096584b5c9a0e0e20d15d487c516c53bfd14862",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/gidiem/Documents/VS Code Workspace/HelloWorldLightningWebComponent",
+        {
+            "state": "u",
+            "sourcePath": "/home/gidiem/Documents/VS Code Workspace/HelloWorldLightningWebComponent",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1548498974459,
+            "changeTime": 1548498974459,
+            "contentHash": "9f0deeee90eb68afded09728ca4b28493cd2dde3",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
