@@ -1,14 +1,11 @@
 # SFDX  App
 
-## Dev, Build and Test
-
+An app that serves as the shell for many web lightning components
 
 ## Resources
 
+Great place to start: https://trailhead.salesforce.com/en/content/learn/projects/quick-start-lightning-web-components
 
 ## Description of Files and Directories
 
-
-## Issues
-
-
+All components in subfolder /lwc
