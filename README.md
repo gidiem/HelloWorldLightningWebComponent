@@ -8,4 +8,4 @@ Great place to start: https://trailhead.salesforce.com/en/content/learn/projects
 
 ## Description of Files and Directories
 
-All components in folder /force-app/main/default/lwc
+All components in folder [Lightning Web Components](force-app/main/default/lwc)
