@@ -1,0 +1,137 @@
+[
+    [
+        "c:\\Users\\Glen\\Documents\\GitHub\\lwc-development-app\\force-app",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\Glen\\Documents\\GitHub\\lwc-development-app\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1548584538539,
+            "changeTime": 1548584538539,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "c:\\Users\\Glen\\Documents\\GitHub\\lwc-development-app\\force-app\\main",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\Glen\\Documents\\GitHub\\lwc-development-app\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1548584538539,
+            "changeTime": 1548584538539,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\Glen\\Documents\\GitHub\\lwc-development-app\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\Glen\\Documents\\GitHub\\lwc-development-app\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1548584538539,
+            "changeTime": 1548584538539,
+            "contentHash": "829e3cbe114692d1a8542419a3a8e09849d49353",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\Glen\\Documents\\GitHub\\lwc-development-app\\force-app\\main\\default\\lwc",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\Glen\\Documents\\GitHub\\lwc-development-app\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1548584538574,
+            "changeTime": 1548584538574,
+            "contentHash": "faff82b8edb19af39d7a6c08271b6498fd431a07",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\Glen\\Documents\\GitHub\\lwc-development-app\\force-app\\main\\default\\lwc\\helloWorld",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\Glen\\Documents\\GitHub\\lwc-development-app\\force-app\\main\\default\\lwc\\helloWorld",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1548584538568,
+            "changeTime": 1548584538568,
+            "contentHash": "c4f5c53c9e3fa98e7b41f54b72a11b17045711fb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\Glen\\Documents\\GitHub\\lwc-development-app\\force-app\\main\\default\\lwc\\helloWorld\\helloWorld.html",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\Glen\\Documents\\GitHub\\lwc-development-app\\force-app\\main\\default\\lwc\\helloWorld\\helloWorld.html",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 318,
+            "modifiedTime": 1548584538555,
+            "changeTime": 1548584538555,
+            "contentHash": "109c667c2b1a9703b7822d9b97580c3e40185d68",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\Glen\\Documents\\GitHub\\lwc-development-app\\force-app\\main\\default\\lwc\\helloWorld\\helloWorld.js",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\Glen\\Documents\\GitHub\\lwc-development-app\\force-app\\main\\default\\lwc\\helloWorld\\helloWorld.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 221,
+            "modifiedTime": 1548584538562,
+            "changeTime": 1548584538562,
+            "contentHash": "dae71cd4f21a62bcfa3a315429cf14ea5e1f9f98",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\Glen\\Documents\\GitHub\\lwc-development-app\\force-app\\main\\default\\lwc\\helloWorld\\helloWorld.js-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\Glen\\Documents\\GitHub\\lwc-development-app\\force-app\\main\\default\\lwc\\helloWorld\\helloWorld.js-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 378,
+            "modifiedTime": 1548584538568,
+            "changeTime": 1548584538568,
+            "contentHash": "cf8c91b6609a714bc5d03ccf3ec5e5bc61df8298",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\Glen\\Documents\\GitHub\\lwc-development-app",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\Glen\\Documents\\GitHub\\lwc-development-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1548584538580,
+            "changeTime": 1548584590335,
+            "contentHash": "806ba1a6fdbf66cfb747163cfbc2797dba062b4e",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
