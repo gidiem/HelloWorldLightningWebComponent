@@ -3,16 +3,21 @@
         "experimentalDecorators": true,
         "baseUrl": ".",
         "paths": {
-            "c/hello-world": [
-                "helloWorld/helloWorld.js"
-            ],
-            "c/user-login-map": [
+            "c/UserLoginMap": [
                 "UserLoginMap/UserLoginMap.js"
+            ],
+            "c/helloWorld": [
+                "helloWorld/helloWorld.js"
             ]
         }
     },
     "include": [
         "**/*",
         "../../../../.sfdx/typings/lwc/**/*.d.ts"
-    ]
+    ],
+    "typeAcquisition": {
+        "include": [
+            "jest"
+        ]
+    }
 }
