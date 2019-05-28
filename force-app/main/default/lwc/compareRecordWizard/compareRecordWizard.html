@@ -1,0 +1,29 @@
+<template>
+    <lightning-card>
+        <h2 slot="title">
+            <lightning-icon class="slds-m-right_small" icon-name="action:view_relationship" size="small"></lightning-icon>
+            <b>Compare {titleObject}</b>
+        </h2>
+        <div slot="footer">
+            <p class="slds-p-horizontal_small slds-text-align_right"><b>Powered by ZennLabs</b></p>      
+        </div>
+
+        <lightning-card>
+            <div class="slds-grid slds-m-left_large">
+                <template for:each={records} for:item="item">                    
+                    <div key={item.Id} class="slds-col">
+                        <lightning-icon
+                            icon-name={iconName}
+                            size="large"
+                            alternative-text={objType} class="slds-m-right_small slds-p-around_large">
+                        </lightning-icon>
+                        {item.Name}
+                        <p class="slds-p-around_large slds-box">{item.Email}</p>
+                        <p class="slds-p-around_large slds-box">{item.BirthDate}</p>
+                        <p class="slds-p-around_large slds-box">{item.OwnerId}</p>
+                    </div>
+                </template>
+            </div>  
+        </lightning-card>      
+    </lightning-card>
+</template>

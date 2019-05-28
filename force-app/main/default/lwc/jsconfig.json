@@ -3,11 +3,14 @@
         "experimentalDecorators": true,
         "baseUrl": ".",
         "paths": {
-            "c/UserLoginMap": [
-                "UserLoginMap/UserLoginMap.js"
-            ],
             "c/helloWorld": [
                 "helloWorld/helloWorld.js"
+            ],
+            "c/compareRecordWizard": [
+                "compareRecordWizard/compareRecordWizard.js"
+            ],
+            "c/userLoginMap": [
+                "userLoginMap/userLoginMap.js"
             ]
         }
     },
